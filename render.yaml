@@ -14,5 +14,5 @@ services:
         generateValue: true
 
 databases:
-  - name: bons-voisins
+  - name: bons-voisins-db
     plan: free
